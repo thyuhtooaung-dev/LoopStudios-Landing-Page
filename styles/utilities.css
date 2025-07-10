@@ -1,0 +1,39 @@
+.mt {
+  margin-top: var(--space-2xl);
+}
+
+.mt-sm {
+  margin-top: var(--space-lg);
+}
+
+.mt-lg {
+  margin-top: var(--space-3xl);
+}
+
+.mb {
+  margin-bottom: var(--space-md);
+}
+
+/* Flex Utilities */
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+/* Text Utilities */
+.text-center {
+  text-align: center;
+}
