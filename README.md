@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-> LiveSiteUrl: **LoopStudios Landing Page** on [GitHub Pages](https://thyuhtooaungowo.github.io/LoopStudios-Landing-Page/)
+> LiveSiteUrl: **LoopStudios Landing Page** on [GitHub Pages](https://thyuhtooaung-dev.github.io/LoopStudios-Landing-Page/)
 
 ### Built with
 
